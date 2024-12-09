@@ -1,0 +1,19 @@
+.Input-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+.Input-container input {
+  margin: 5px 0;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.Input-container button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}

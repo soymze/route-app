@@ -1,0 +1,12 @@
+.Address-list {
+    margin: 20px;
+  }
+  
+  .Address-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+  }
+  
